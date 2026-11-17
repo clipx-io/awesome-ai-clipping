@@ -31,6 +31,7 @@ The list covers hosted clipping tools, the open-source building blocks behind th
 - [Kapwing AI Clip Maker](https://www.kapwing.com/ai/clip-maker) - Pulls clips from your footage based on a text prompt and resizes them for TikTok, Instagram and YouTube.
 - [Klap](https://klap.app/) - Turns YouTube links or uploaded videos into captioned vertical clips with auto reframing and scheduled posting.
 - [OpusClip](https://www.opus.pro/) - Turns long videos into short captioned clips, reframes them for vertical formats and publishes them to social platforms.
+- [Prolifik](https://getprolifik.com/) - Turns YouTube, Twitch and Kick videos into captioned vertical clips, makes branded short videos from a website URL, and schedules and auto-posts them to TikTok, Instagram Reels, YouTube Shorts and X, with a REST API and MCP server.
 - [quso.ai](https://quso.ai/) - Formerly vidyo.ai. Turns long videos, podcasts and streams into captioned clips and schedules posts.
 - [VEED AI Clip Generator](https://www.veed.io/tools/auto-video-editor/ai-clip-generator) - Online editor tool that extracts short clips from podcasts, webinars and other long videos.
 - [Vizard](https://vizard.ai/) - Turns long videos into clips for TikTok, Reels and YouTube Shorts, with AI reframing, captions and an editor.
