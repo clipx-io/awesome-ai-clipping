@@ -30,6 +30,7 @@ The list covers hosted clipping tools, the open-source building blocks behind th
 - [Descript](https://www.descript.com/) - Text-based video and podcast editor with a feature that finds short clips in long recordings.
 - [Kapwing AI Clip Maker](https://www.kapwing.com/ai/clip-maker) - Pulls clips from your footage based on a text prompt and resizes them for TikTok, Instagram and YouTube.
 - [Klap](https://klap.app/) - Turns YouTube links or uploaded videos into captioned vertical clips with auto reframing and scheduled posting.
+- [OpenShorts.io](https://openshorts.io/) - Turns long videos into captioned vertical clips with face tracking and a hosted MCP API.
 - [OpusClip](https://www.opus.pro/) - Turns long videos into short captioned clips, reframes them for vertical formats and publishes them to social platforms.
 - [quso.ai](https://quso.ai/) - Formerly vidyo.ai. Turns long videos, podcasts and streams into captioned clips and schedules posts.
 - [VEED AI Clip Generator](https://www.veed.io/tools/auto-video-editor/ai-clip-generator) - Online editor tool that extracts short clips from podcasts, webinars and other long videos.
