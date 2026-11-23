@@ -28,6 +28,7 @@ The list covers hosted clipping tools, the open-source building blocks behind th
 - [2short.ai](https://www.2short.ai/) - Turns long videos into Shorts, TikToks and Reels with face tracking and animated subtitles.
 - [ClipX](https://clipx.io/) - AI clipper that turns long YouTube, Twitch and Kick videos and podcasts into vertical shorts with captions, an editor and auto-posting.
 - [Descript](https://www.descript.com/) - Text-based video and podcast editor with a feature that finds short clips in long recordings.
+- [FluidCut](https://fluidcut.app/) - Turns long videos, podcasts and live streams into captioned vertical clips, and edits uploaded videos from plain-language instructions.
 - [Kapwing AI Clip Maker](https://www.kapwing.com/ai/clip-maker) - Pulls clips from your footage based on a text prompt and resizes them for TikTok, Instagram and YouTube.
 - [Klap](https://klap.app/) - Turns YouTube links or uploaded videos into captioned vertical clips with auto reframing and scheduled posting.
 - [OpusClip](https://www.opus.pro/) - Turns long videos into short captioned clips, reframes them for vertical formats and publishes them to social platforms.
